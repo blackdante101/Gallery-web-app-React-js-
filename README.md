@@ -1,3 +1,3 @@
 ## Demo 
 
-![video](gallery.mp4)
+![video](gallery.gif)
